@@ -23,7 +23,7 @@ A Python application that fetches real-time weather data for any given city and 
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/ramro-keta/MausamSuhana.git]
+   git clone https://github.com/ramro-keta/MausamSuhana.git
    cd MausamSuhana
    ```
 
