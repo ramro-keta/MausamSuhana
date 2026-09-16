@@ -8,14 +8,14 @@ A Python application that fetches real-time weather data for any given city and 
 ## 🌟 Features
 - Real-time weather lookup using OpenWeatherMap API.
 - Intelligent weather-to-music mapping (e.g., Rain -> Cozy Lo-Fi / Acoustic, Clear -> Upbeat Summer Pop).
-- Automated track recommendations via Spotify API.
+- Automated track recommendations via Jamendo API.
 
 ---
 
 ## 🛠️ Tech Stack & Libraries
 - **Language:** Python 3
 - **Libraries:** `requests`, `spotipy`, `python-dotenv`
-- **APIs:** OpenWeatherMap API, Spotify Web API
+- **APIs:** OpenWeatherMap API, Jamendo API
 
 ---
 
