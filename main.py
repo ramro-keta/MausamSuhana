@@ -72,7 +72,7 @@ def get_music_recommendations(mood_info: dict, client_id: str) -> list[dict]:
         "client_id": client_id,
         "format": "json",
         "limit": 5,
-        "search": mood_info["search_query"],
+        "namesearch": mood_info["search_query"],
         "include": "musicinfo",
     }
 
