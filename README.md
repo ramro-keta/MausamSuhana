@@ -14,7 +14,7 @@ A Python application that fetches real-time weather data for any given city and 
 
 ## 🛠️ Tech Stack & Libraries
 - **Language:** Python 3
-- **Libraries:** `requests`, `spotipy`, `python-dotenv`
+- **Libraries:** `requests`, `python-dotenv`
 - **APIs:** OpenWeatherMap API, Jamendo API
 
 ---
